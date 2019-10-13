@@ -3,7 +3,7 @@
 
 # NB! Set your site's url, otherwise stuff will break :)
 
-url: "https://byemrekaya.github.io/resume/"
+url: "https://byemrekaya.github.io"
 
 baseurl: /resume
 
