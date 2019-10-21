@@ -34,8 +34,6 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/intro-bg.jpg"
-
 ##############################
 # Dynamic Text on the Header #
 ##############################
@@ -51,7 +49,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Hello !! My name is Emre"
   - text: "I am a full-stack developer."
 
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/emre-kaya.jpg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -124,9 +122,19 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+  - image: "/img/timeline/etiya.png"
+    date: "May 2018 – Today"
+    description: "I work in Product Development and Innovation in Fizz project. It has admin UI for managers, customer UI for customers and CSR UI for the call support team."
+    stackText: "We are using the following technologies ;"
+    technologies: [
+      "Angular 7+ (up to current latest)",
+      "State management with NGXS or NgRx",
+      "Javascript (including latest ECMAScript)",
+      "REST and GraphQL",
+      "TypeScript",
+      "RxJS",
+      "Git",
+      "Sass"]
   - image: "/img/timeline/baracktocat.jpg"
     date: "September 2007 - August 2013"
     description: "Started coding"
@@ -188,7 +196,7 @@ keybase-in-footer: false
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  # Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
@@ -198,7 +206,7 @@ exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
 
 # Pagination path
 
-paginate_path: "blog/page:num/"
+# paginate_path: "blog/page:num/"
 
 # Enable minification SASS
 
