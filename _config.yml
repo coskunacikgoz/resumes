@@ -34,6 +34,9 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
+# background-img: "../img/sitebg.jpg"
+
+
 ##############################
 # Dynamic Text on the Header #
 ##############################
@@ -47,8 +50,8 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Hello !! My name is Emre"
-  - text: "I am a full-stack developer."
-
+  - text: "I am a member of NG-Turkey."
+  - text: "I like coding"
 me-img: "/img/emre-kaya.jpg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
@@ -135,9 +138,24 @@ events:
       "RxJS",
       "Git",
       "Sass"]
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/timeline/etiya.png"
+    date: "Dec 2017 – May 2018"
+    description: "I work in the Software Solution Development department of the Telaura CRM Suite project. Telaura is an application that contains Telco CRM components. It was developed based on the BSS needs of a telecom operator."
+    stackText: "We are using the following technologies ;"
+    technologies: [
+       "Oracle ADF",
+       "Jdeveloper",
+       "Oracle Database",
+       "Toad",
+       "Soa",
+       "SoapUI",
+       "The SIM module is designed to perform scheduled tasks in addition to the Telaura product, and the following technologies have been used to develop this module.",
+       "Spring Framework (Cache Module, Cron Expression vb.)",
+       "Oracle Database Advanced Queuing (AQ)",
+       "In addition, I made 10 demo projects for the company's overseas presentations and then supported the fizz project as a full stack developer.",
+       "PostgreSQL",
+       "Angular JS",
+       "Spring"]
 
 # First image of the Timeline
 
