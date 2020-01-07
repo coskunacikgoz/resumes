@@ -34,7 +34,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-# background-img: "../img/sitebg.jpg"
+background-img: "../img/bg.gif"
 
 
 ##############################
@@ -52,6 +52,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Hello !! My name is Emre"
   - text: "I am a member of NG-Turkey."
   - text: "I like coding"
+
 me-img: "/img/emre-kaya.jpg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
@@ -137,7 +138,8 @@ events:
       "TypeScript",
       "RxJS",
       "Git",
-      "Sass"]
+      "Sass"
+      ]
   - image: "/img/timeline/etiya.png"
     date: "Dec 2017 – May 2018"
     description: "I work in the Software Solution Development department of the Telaura CRM Suite project. Telaura is an application that contains Telco CRM components. It was developed based on the BSS needs of a telecom operator."
