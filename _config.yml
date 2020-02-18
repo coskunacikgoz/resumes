@@ -34,7 +34,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/bg.gif"
+# background-img: "../img/bg.gif"
 
 
 ##############################
@@ -49,11 +49,13 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Hello !! My name is Emre"
-  - text: "I am a member of NG-Turkey."
-  - text: "I like coding"
+  - text: "Hello !! My name is Emre."
+  - text: "I was selected as the most valuable developer of 2019 in my company."
+  - text: "I'm in the Ng Turkey core team,"
+  - text: "the most active Angular community in Turkey."
+  - text: "I like to try new things and spend time with people."
 
-me-img: "/img/emre-kaya.jpg"
+me-img: "/img/emre_kaya.jpg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
