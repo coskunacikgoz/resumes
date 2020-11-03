@@ -124,7 +124,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/QRRFLovi_400x400.jpg"
+  - image: "/img/timeline/QRRFL0vi_400x400.jpg"
     date: "Ekim 2019 - Şubat 2020"
     description: "Yazılım alanına dönebilmek için işimden ayrılarak C# Yazılım Geliştirme kursuna katıldım."
     stackText: "Kurs içeriği;"
