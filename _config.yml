@@ -129,6 +129,7 @@ events:
     description: "Yazılım alanına dönebilmek için işimden ayrılarak C# Yazılım Geliştirme kursuna katıldım."
     stackText: "Kurs içeriği;"
     technologies: [
+      "C#",
       "OOP",
       ".NET MVC",
       ".NET Core",
