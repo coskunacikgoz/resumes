@@ -137,7 +137,9 @@ events:
       "Entity Framework",
       "HTML, CSS",
       "Bootstrap",
-      "UiPath"
+      "UiPath",
+      "Rest API",
+      "SOLID"
       ]
   - image: "/img/timeline/Koctas_logo.png"
     date: "Aralık 2016 - Ağustos 2019"
